@@ -1,3 +1,4 @@
+# Author: Junrong Zhu
 FROM jupyter/r-notebook
 
 RUN conda install --quiet --yes \
